@@ -1,0 +1,25 @@
+# Ignorar todos os arquivos PDF
+*.pdf
+
+# Ignorar todos os arquivos de imagem .png e .jpg
+*.png
+*.jpg
+
+# Ignorar diretórios específicos (exemplo)
+# /path/to/directory/
+
+# Ignorar arquivos de log (caso tenha)
+*.log
+
+# Ignorar arquivos de configuração do sistema operacional (caso tenha)
+.DS_Store
+Thumbs.db
+
+# Ignorar binários de compilação ou arquivos temporários (caso tenha)
+*.out
+*.tmp
+*.swp
+*.swo
+
+# Exemplo de exceção para não ignorar um PDF específico (caso necessário)
+# !important-file.pdf
